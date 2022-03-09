@@ -9,7 +9,9 @@
 
 - 📫 How to reach me **mastropaolo.mark@gmail.com**
 
--🥅 2022 Goals: Pass the AWS Certified Cloud Practitioner Exam in the coming weeks and find a hybrid or remote developer role
+- 🥅 2022 Goals: Pass the AWS Certified Cloud Practitioner Exam in the coming weeks and find a hybrid or remote developer role
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
