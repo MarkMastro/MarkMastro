@@ -4,6 +4,6 @@
 - 🔭 I’m currently working on refactoring Healthy Eats using Typescript and NextJS.
 
 
+
 ### Connect with me:
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/mark-mastropaolo/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/mark-mastropaolo/#gh-dark-mode-only)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mark-mastropaolo/)
