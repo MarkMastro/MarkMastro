@@ -3,11 +3,13 @@
 
 - 🔭 I’m currently working on refactoring **Healthy Eats using Typescript and NextJS**
 
-- 🌱 I’m currently learning more about **AWS and plan on taking the AWS Certified Cloud Practitioner Exam in the coming weeks.**
+- 🌱 I’m currently learning more about **AWS and Redux**
 
 - 💬 Ask me about **React, Typescript, NextJS**
 
 - 📫 How to reach me **mastropaolo.mark@gmail.com**
+
+-🥅 2022 Goals: Pass the AWS Certified Cloud Practitioner Exam in the coming weeks and find a hybrid or remote developer role
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
