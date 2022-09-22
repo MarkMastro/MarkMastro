@@ -1,16 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mark Mastropaolo</h1>
-<h3 align="center">A Mechatronics Engineer and Program Manager pivoting into Web Development</h3>
-
-- 🔭 I’m currently working on creating a **crowd funding application using the Solana blockchain** 
-
-- 🌱 I’m currently learning more about **AWS and Redux**
-
-- 💬 Ask me about **React, Typescript, NextJS**
-
-- 📫 How to reach me **mastropaolo.mark@gmail.com**
-
-- 🥅 2022 Goals: Pass the AWS Certified Cloud Practitioner Exam in the coming weeks and find a hybrid or remote developer role
-
 
 
 <h3 align="left">Connect with me:</h3>
